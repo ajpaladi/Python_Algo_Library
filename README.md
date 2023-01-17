@@ -14,3 +14,9 @@ From get_flights.py
 
 <img width="592" alt="image" src="https://user-images.githubusercontent.com/57462097/212813613-b7c846cf-ceec-40ef-b862-963a4d05e286.png">
 <img width="1049" alt="image" src="https://user-images.githubusercontent.com/57462097/212813718-0707221b-69ae-4ff1-b931-34a53231f75a.png">
+
+From get_ports.py
+
+<img width="1002" alt="image" src="https://user-images.githubusercontent.com/57462097/212814444-a575c0e3-6e1a-4b1d-8a8e-29bf580e2abc.png">
+<img width="1057" alt="image" src="https://user-images.githubusercontent.com/57462097/212814560-e16413f7-ebef-4710-8981-54419ccd5573.png">
+
