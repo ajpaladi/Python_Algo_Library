@@ -20,3 +20,7 @@ From get_ports.py
 <img width="1002" alt="image" src="https://user-images.githubusercontent.com/57462097/212814444-a575c0e3-6e1a-4b1d-8a8e-29bf580e2abc.png">
 <img width="1057" alt="image" src="https://user-images.githubusercontent.com/57462097/212814560-e16413f7-ebef-4710-8981-54419ccd5573.png">
 
+
+From detect_anomalies_on_traffic
+
+<img width="1205" alt="image" src="https://user-images.githubusercontent.com/57462097/215675429-3724dbd4-a99a-44ae-88ce-a89f6834fd86.png">
