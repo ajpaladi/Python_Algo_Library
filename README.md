@@ -2,6 +2,11 @@
 
 Includes all functions that I developed at various companies (mainly orbital isight) for Customers or Exploration
 
+From tweet_count_plot.py : Tweet Counts of NFL Teams in the AFC North
+
+<img width="1051" alt="image" src="https://user-images.githubusercontent.com/57462097/220478184-10c045d8-6b2f-4c74-91a6-0ed30b1202b6.png">
+
+
 From tweet_count_plot.py
 
 <img width="908" alt="image" src="https://user-images.githubusercontent.com/57462097/220463231-530007c6-b049-4c86-8e5d-65a3d767bebb.png">
