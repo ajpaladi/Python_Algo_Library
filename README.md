@@ -2,10 +2,13 @@
 
 Includes all functions that I developed at various companies (mainly orbital isight) for Customers or Exploration
 
+And another from tweet_count_plot.py: Just another form of graph. I love plotly.express
+
+<img width="1042" alt="image" src="https://user-images.githubusercontent.com/57462097/220480238-4b2ae796-34dd-46b7-b335-7a84cef147e3.png">
+
 From tweet_count_plot.py : Tweet Counts of NFL Teams in the AFC North
 
 <img width="1051" alt="image" src="https://user-images.githubusercontent.com/57462097/220478184-10c045d8-6b2f-4c74-91a6-0ed30b1202b6.png">
-
 
 From tweet_count_plot.py
 
