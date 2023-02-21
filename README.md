@@ -2,6 +2,10 @@
 
 Includes all functions that I developed at various companies (mainly orbital isight) for Customers or Exploration
 
+From tweet_count_plot.py
+
+<img width="908" alt="image" src="https://user-images.githubusercontent.com/57462097/220463231-530007c6-b049-4c86-8e5d-65a3d767bebb.png">
+
 From anomaly_detect.py
 
 <img width="812" alt="image" src="https://user-images.githubusercontent.com/57462097/212812629-90ddc408-711d-4205-b8b3-c57a09fb894a.png">
