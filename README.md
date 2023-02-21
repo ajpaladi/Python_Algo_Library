@@ -2,6 +2,10 @@
 
 Includes all functions that I developed at various companies (mainly orbital isight) for Customers or Exploration
 
+BUT !!! I think stacked bar best represents this data
+
+<img width="1053" alt="image" src="https://user-images.githubusercontent.com/57462097/220480831-2a28babe-99be-411b-904e-2c46161ac9de.png">
+
 And another from tweet_count_plot.py: Just another form of graph. I love plotly.express
 
 <img width="1042" alt="image" src="https://user-images.githubusercontent.com/57462097/220480238-4b2ae796-34dd-46b7-b335-7a84cef147e3.png">
