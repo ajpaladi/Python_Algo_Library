@@ -1,5 +1,9 @@
 # Python_Algo_Library
 
+From the tweet_count_gui.py
+
+<img width="836" alt="image" src="https://user-images.githubusercontent.com/57462097/221630707-6de430af-a2b3-4704-8bf2-253af8b36db3.png">
+
 Output of get_pois (csv export / import into QGIS)
 
 <img width="798" alt="image" src="https://user-images.githubusercontent.com/57462097/221481329-60a74a59-77d7-44fa-9381-a6d1f70bae4c.png">
