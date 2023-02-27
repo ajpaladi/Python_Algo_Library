@@ -4,7 +4,6 @@ Output of get_pois (csv export / import into QGIS)
 
 <img width="798" alt="image" src="https://user-images.githubusercontent.com/57462097/221481329-60a74a59-77d7-44fa-9381-a6d1f70bae4c.png">
 
-
 Includes all functions that I developed at various companies (mainly orbital isight) for Customers or Exploration
 
 BUT !!! I think stacked bar best represents this data
@@ -12,6 +11,12 @@ BUT !!! I think stacked bar best represents this data
 <img width="1053" alt="image" src="https://user-images.githubusercontent.com/57462097/220480831-2a28babe-99be-411b-904e-2c46161ac9de.png">
 
 And another from tweet_count_plot.py: Just another form of graph. I love plotly.express
+
+<img width="1042" alt="image" src="https://user-images.githubusercontent.com/57462097/220480238-4b2ae796-34dd-46b7-b335-7a84cef147e3.png">
+
+Yet another output of tweet_count_plot.py That time it snowed in California
+
+<img width="967" alt="image" src="https://user-images.githubusercontent.com/57462097/221481798-271f7a4c-77cb-4e7d-bd9e-566de35185fc.png">
 
 <img width="1042" alt="image" src="https://user-images.githubusercontent.com/57462097/220480238-4b2ae796-34dd-46b7-b335-7a84cef147e3.png">
 
