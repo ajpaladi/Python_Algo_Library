@@ -1,5 +1,10 @@
 # Python_Algo_Library
 
+Output of get_pois (csv export / import into QGIS
+
+<img width="798" alt="image" src="https://user-images.githubusercontent.com/57462097/221481329-60a74a59-77d7-44fa-9381-a6d1f70bae4c.png">
+
+
 Includes all functions that I developed at various companies (mainly orbital isight) for Customers or Exploration
 
 BUT !!! I think stacked bar best represents this data
