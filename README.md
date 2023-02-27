@@ -14,7 +14,7 @@ And another from tweet_count_plot.py: Just another form of graph. I love plotly.
 
 <img width="1042" alt="image" src="https://user-images.githubusercontent.com/57462097/220480238-4b2ae796-34dd-46b7-b335-7a84cef147e3.png">
 
-Yet another output of tweet_count_plot.py That time it snowed in California
+Yet another output of tweet_count_plot.py Popularity growth of pluto_tv
 
 <img width="967" alt="image" src="https://user-images.githubusercontent.com/57462097/221481798-271f7a4c-77cb-4e7d-bd9e-566de35185fc.png">
 
