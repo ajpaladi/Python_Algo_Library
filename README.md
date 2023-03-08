@@ -1,5 +1,9 @@
 # Python_Algo_Library
 
+From asset_vulnerability.py
+
+<img width="1001" alt="image" src="https://user-images.githubusercontent.com/57462097/223632818-c3ecd422-f33f-4b81-98f6-b9f7c11f49c6.png">
+
 From the tweet_count_gui.py
 
 <img width="836" alt="image" src="https://user-images.githubusercontent.com/57462097/221630707-6de430af-a2b3-4704-8bf2-253af8b36db3.png">
